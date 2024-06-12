@@ -20,8 +20,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/SpikeInterface/spikeinterface-gui"
-Repository = "https://github.com/SpikeInterface/spikeinterface-gui"
+Homepage = "https://github.com/rezaasri/spikeinterface-gui"
+Repository = "https://github.com/rezaasri/spikeinterface-gui"
 
 
 [build-system]
